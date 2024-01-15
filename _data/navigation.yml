@@ -1,0 +1,25 @@
+# main links links
+main:
+    
+  - title: "News"
+    url: /news/
+
+  - title: "Publications"
+    url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/
+    
+  - title: "Collaborators"
+    url: /collaborators/
+
+  - title: "Teaching"
+    url: /teaching/  
+    
+  - title: "CV"
+    url: /files/CV.pdf
+    #"https://saraventurini.github.io/files/CV.pdf"
+    #https://academicpages.github.io/files/paper1.pdf
+    
+  #- title: "Guide"
+  #  url: /markdown/
