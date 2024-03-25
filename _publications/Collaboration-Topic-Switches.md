@@ -3,7 +3,7 @@ title: " Collaboration and topic switches in science"
 collection: publications
 permalink: /publication/Collaboration-Topic-Switches
 year: 2024
-authors: Sara Venturini, Satyaki Sikdar, Francesco Rinaldi, Francesco Tudisco, Santo Fortunato 
+authors: Sara Venturini*, Satyaki Sikdar*, Francesco Rinaldi, Francesco Tudisco, Santo Fortunato 
 venue: 'Scientific Reports'
 abstract: Collaboration is a key driver of science and innovation. Mainly motivated by the need to leverage different capacities and expertise to solve a scientific problem, collaboration is also an excellent source of information about the future behavior of scholars. In particular, it allows us to infer the likelihood that scientists choose future research directions via the intertwined mechanisms of selection and social influence. Here we thoroughly investigate the interplay between collaboration and topic switches. We find that the probability for a scholar to start working on a new topic increases with the number of previous collaborators, with a pattern showing that the effects of individual collaborators are not independent. The higher the productivity and the impact of authors, the more likely their coworkers will start working on new topics. The average number of coauthors per paper is also inversely related to the topic switch probability, suggesting a dilution of this effect as the number of collaborators increases.
 paperurl: 'https://arxiv.org/abs/2304.06826'
