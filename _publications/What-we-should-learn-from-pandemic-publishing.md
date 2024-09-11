@@ -14,9 +14,9 @@ Links: [Paper](https://doi.org/10.1038/s41562-024-01969-7) [Code]( https://osf.i
 <h3>Please cite this paper as:</h3>
 
 ``` 
-@article{venturini2023collaboration,
-  title={Collaboration and topic switches in science},
-  author={Venturini, Sara and Sikdar, Satyaki and Charpignon, Marie-Laure and  Kumar, Sagar and Rinaldi, Francesco and Tudisco, Francesco and Fortunato, Santo and Majumder, Maimuna S.},
+@article{sikdar2024publishing,
+  title={What we should learn from pandemic publishing},
+  author={Sikdar, Satyaki and Venturini, Sara and Charpignon, Marie-Laure and  Kumar, Sagar and Rinaldi, Francesco and Tudisco, Francesco and Fortunato, Santo and Majumder, Maimuna S.},
   journal={Nature Human Behaviour},
   year={2024},
   doi = { https://doi.org/10.1038/s41562-024-01969-7}
