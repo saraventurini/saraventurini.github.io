@@ -3,6 +3,7 @@ title: " What we should learn from pandemic publishing"
 collection: publications
 permalink: /publication/ What-we-should-learn-from-pandemic-publishing
 year: 2024
+date: 2024-09-09
 authors: Satyaki Sikdar*, Sara Venturini*, Marie-Laure Charpignon, Sagar Kumar, Francesco Rinaldi, Francesco Tudisco, Santo Fortunato, Maimuna S. Majumder
 venue: 'Nature Human Behaviour'
 abstract: Authors of COVID-19 papers produced during the pandemic were overwhelmingly not subject matter experts. Such a massive inflow of scholars from different expertise areas is both an asset and a potential problem. Domain-informed scientific collaboration is the key to preparing for future crises.
