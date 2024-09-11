@@ -14,11 +14,12 @@ Links: [Paper](https://doi.org/10.1038/s41562-024-01969-7) [Code]( https://osf.i
 <h3>Please cite this paper as:</h3>
 
 ``` 
-@article{sikdar2024publishing,
+@article{sikdar2024we,
   title={What we should learn from pandemic publishing},
-  author={Sikdar, Satyaki and Venturini, Sara and Charpignon, Marie-Laure and  Kumar, Sagar and Rinaldi, Francesco and Tudisco, Francesco and Fortunato, Santo and Majumder, Maimuna S.},
+  author={Sikdar, Satyaki and Venturini, Sara and Charpignon, Marie-Laure and Kumar, Sagar and Rinaldi, Francesco and Tudisco, Francesco and Fortunato, Santo and Majumder, Maimuna S},
   journal={Nature Human Behaviour},
+  pages={1--4},
   year={2024},
-  doi = {https://doi.org/10.1038/s41562-024-01969-7}
+  publisher={Nature Publishing Group}
 }
 ``` 
