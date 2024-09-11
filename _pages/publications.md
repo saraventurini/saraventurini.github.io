@@ -14,6 +14,6 @@ nav_order: 4
 
 {% include base_path %}
 
-{% for post in site.publications %}
+{% for post in site.publications reversed%}
   {% include archive-single.html %}
 {% endfor %}
