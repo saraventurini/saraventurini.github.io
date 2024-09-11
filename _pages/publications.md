@@ -3,9 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-years: [2024, 2023, 2022]
-nav: true
-nav_order: 4
 ---
 
 {% if author.googlescholar %}
