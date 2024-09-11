@@ -3,6 +3,7 @@ title: "A Variance-aware Multiobjective Louvain-like Method for Community Detect
 collection: publications
 permalink: /publication/a-variance-aware-multiobjective-louvain-like-method-for-community-detection-in-multiplex-networks
 year: 2022
+date: 2022-09-21
 authors: Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco
 venue: 'Journal of Complex Networks'
 abstract: In this paper, we focus on the community detection problem in multiplex networks, i.e., networks with multiple layers having same node sets and no inter-layer connections. In particular, we look for groups of nodes that can be recognized as communities consistently across the layers. To this end, we propose a new approach that generalizes the Louvain method by (a) simultaneously updating average and variance of the modularity scores across the layers, and (b) reformulating the greedy search procedure in terms of a filter-based multiobjective optimization scheme. Unlike many previous modularity maximization strategies, which rely on some form of aggregation of the various layers, our multiobjective approach aims at maximizing the individual modularities on each layer simultaneously. We report experiments on synthetic and real-world networks, showing the effectiveness and the robustness of the proposed strategies both in the informative case, where all layers show the same community structure, and in the noisy case, where some layers represent only noise.
