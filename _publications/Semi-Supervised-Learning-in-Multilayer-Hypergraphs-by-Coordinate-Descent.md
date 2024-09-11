@@ -3,6 +3,7 @@ title: "Laplacian-based Semi-Supervised Learning in Multilayer Hypergraphs by Co
 collection: publications
 permalink: /publication/Semi-Supervised-Learning-in-Multilayer-Hypergraphs-by-Coordinate-Descent
 year: 2023
+date: 2023-04-17
 authors: Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco
 venue: 'EURO Journal on Computational Optimization'
 abstract: Graph Semi-Supervised learning is an important data analysis tool, where given a graph and a set of labeled nodes, the aim is to infer the labels to the remaining unlabeled nodes. In this paper, we start by considering an optimization-based formulation of the problem for an undirected graph, and then we extend this formulation to multilayer hypergraphs. We solve the problem using different coordinate descent approaches and compare the results with the ones obtained by the classic gradient descent method. Experiments on synthetic and real-world datasets show the potential of using coordinate descent methods with suitable selection rules.
