@@ -21,6 +21,7 @@ Links: [Paper](https://doi.org/10.1038/s41562-024-01969-7) [Code]( https://osf.i
   journal={Nature Human Behaviour},
   pages={1--4},
   year={2024},
-  publisher={Nature Publishing Group}
+  publisher={Nature Publishing Group},
+  doi = {https://doi.org/10.1038/s41562-024-01969-7}
 }
 ``` 
