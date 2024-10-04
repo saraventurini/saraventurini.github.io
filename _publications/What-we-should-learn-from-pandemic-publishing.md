@@ -10,7 +10,7 @@ abstract: Authors of COVID-19 papers produced during the pandemic were overwhelm
 paperurl: ' https://doi.org/10.1038/s41562-024-01969-7'
 ---
 
-Links: [Paper](https://doi.org/10.1038/s41562-024-01969-7) [Code]( https://osf.io/kc2pn/) 
+Links: [Paper](https://doi.org/10.1038/s41562-024-01969-7) [ArXiv](https://arxiv.org/abs/2410.01838) [Code](https://osf.io/kc2pn/) 
 
 <h3>Please cite this paper as:</h3>
 
