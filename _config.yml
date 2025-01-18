@@ -10,7 +10,7 @@
 title                    : Home
 title_separator          : "-"
 name                     : &name "Sara Venturini"
-description              : &description "Hi! I am Sara Venturini. I am a Postdoctoral Fellow at the MIT Senseable City Lab. I am interested in everything concerning networks!"
+description              : &description "Hi! I am Sara. I am interested in everything concerning networks!"
 url                      : https://saraventurini.github.io # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saraventurini/saraventurini.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sara Venturini"
   avatar           : "sventurini.png"
-  bio              : "Hi! I am Sara Venturini. I am a Postdoctoral Fellow at the MIT Senseable City Lab. I am interested in everything concerning networks!"
+  bio              : "Hi! I am Sara. I am interested in everything concerning networks!"
   #location         : "Location"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
