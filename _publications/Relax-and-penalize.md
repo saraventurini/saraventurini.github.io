@@ -2,8 +2,8 @@
 title: "Relax and penalize: a new bilevel approach to mixed-binary hyperparameter optimization"
 collection: publications
 permalink: /publication/Relax-and-penalize
-year: 2024
-date: 2024-01-13
+year: 2025
+date: 2025-01-01
 authors: Sara Venturini, Marianna De Santis, Jordan Frecon-Deloir, Martin Schmidt, Francesco Rinaldi*, Saverio Salzo* 
 venue: 'Transactions on Machine Learning Research'
 abstract: In recent years, bilevel approaches have become very popular to efficiently estimate high-dimensional hyperparameters of machine learning models. However, to date, binary parameters are handled by continuous relaxation and rounding strategies, which could lead to inconsistent solutions. In this context, we tackle the challenging optimization of mixed-binary hyperparameters by resorting to an equivalent continuous bilevel reformulation based on an appropriate penalty term. We propose an algorithmic framework that, under suitable assumptions, is guaranteed to provide mixed-binary solutions. Moreover, the generality of the method allows to safely use existing continuous bilevel solvers within the proposed framework. We evaluate the performance of our approach for two specific machine learning problems, i.e., the estimation of the group-sparsity structure in regression problems and the data distillation problem. The reported results show that our method is competitive with state-of-the-art approaches based on relaxation and rounding.
