@@ -1,8 +1,8 @@
 # main links links
 main:
     
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
 
   - title: "Publications"
     url: /publications/
@@ -10,8 +10,8 @@ main:
   #- title: "Talks"
   #  url: /talks/
     
-  - title: "Collaborators"
-    url: /collaborators/
+  #- title: "Collaborators"
+  #  url: /collaborators/
 
   - title: "Teaching"
     url: /teaching/  
